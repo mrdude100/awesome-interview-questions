@@ -41,7 +41,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
   - [EmberJS](#emberjs)
   - [Erlang](#erlang)
   - [Golang](#golang)
-  - [GraphQl](#graphql)
+  - [GraphQL](#graphql)
   - [HTML](#html)
   - [Ionic](#ionic)
   - [iOS](#ios)
@@ -233,10 +233,10 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 
-### GraphQl
+### GraphQL
 
-* [8 GraphQl Interview Questions To Know](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know)
-* [How to GraphQl - Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
+* [8 GraphQL Interview Questions To Know](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know)
+* [How to GraphQL - Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
 
 ### HTML
 
@@ -530,7 +530,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 * [General Oracle Interview Questions & Answers](http://www.coolinterview.com/type.asp?iType=57)
 
-### Postgres
+### PostgreSQL
 
 * [13 PostgreSQL Interview Q&A](http://www.dotnetfunda.com/interviews/cat/208/postgresql)
 * [Frequently Asked Basic PostgreSQL Interview Questions and Answers](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html)
@@ -601,7 +601,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
 ## Blockchain
-* [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
+* [Top 55 Blockchain Interview Questions You Must Prepare In 2024](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
 * [Blockchain Interview Questions](https://mindmajix.com/blockchain-interview-questions)
 * [Top Blockchain Interview Questions](https://intellipaat.com/interview-question/blockchain-interview-questions/)
 * [Blockchain Developer Interview Questions and Answers](https://applicature.com/blog/blockchain-interview-questions)
